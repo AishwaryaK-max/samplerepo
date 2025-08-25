@@ -1,0 +1,6 @@
+Chennai weather status
+
+
+start time : 10:00 am
+temperature : 32'C
+end time: 5:00 pm
